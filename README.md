@@ -1,9 +1,9 @@
 # Welcome!
-We're really excited about you joining our team, so we designed this challenge to give you a taste of the challenges you may encounter in the role, and better understand what it would be like to work closely together.
+We're really excited about helping you land your next role. Since resumes don't capture all that you're capable of, we designed this 1-hour work sample test to mimic the types of challenges you may encounter on the job. This work sample gives hiring managers a much better sense of what it would be like to work with you, and we'll use it to increase your odds of landing your next opportunity at any of the companies we partner with.
 
 
 ## About the challenge
-Below, you'll find 2 exercises we've created to simulate the type of project-based work you might encounter in this role. There is no single right answer — we've left these intentionally open-ended to see how you think.
+Below, you'll find 2 exercises we've created to simulate the type of project-based work you might encounter. There is no single right answer — we've left these intentionally open-ended to see how you think.
 
 We designed this hiring challenge to:
 
