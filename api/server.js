@@ -16,7 +16,7 @@ app.use('/videos', express.static('uploads'))
 app.get('/api/upload_list', (_req, res) => {
   console.log('uploadList');
   db.all(`
-    SELECT id, video_file, address
+    SELECT id, video_file, stream_url, address
     FROM uploads
     ORDER BY id
   `, (err, rows) => {
@@ -37,7 +37,7 @@ app.post('/api/upload', upload.single('video'), (req, res) => {
     (address, video_file, original_video_filename)
     VALUES (?, ?, ?)
   `, [req.body.address, req.file.filename, req.file.originalname], function () {
-    res.redirect(`http://localhost:3000/uploads/${this.lastID}`)
+    res.redirect(`/uploads/${this.lastID}`)
   })
 })
 

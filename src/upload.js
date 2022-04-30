@@ -1,9 +1,9 @@
-import React, {useState, useEffect} from 'react'
-import {Link, useParams} from 'react-router-dom'
+import React, { useState, useEffect } from 'react'
+import { Link, useParams } from 'react-router-dom'
 
 const uploadsRoute = 'http://localhost:4000/api/upload_list'
 
-export default function Upload () {
+export default function Upload() {
   const { id } = useParams()
   const [upload, setUpload] = useState(null)
   useEffect(() => {
