@@ -1,5 +1,5 @@
 # Welcome!
-We're really excited about helping you land your next role. Since resumes don't capture all that you're capable of, we designed this 1-hour work sample test to mimic the types of challenges you may encounter on the job. This work sample gives hiring managers a much better sense of what it would be like to work with you, and we'll use it to increase your odds of landing your next opportunity at any of the companies we partner with.
+We're really excited about helping you land your next role. Since resumes don't capture all that you're capable of, we designed this 1-hour work sample test to mimic the types of challenges you may encounter on the job. This work sample gives hiring managers a much better sense of what it would be like to work with you, and we'll use it to increase your odds of landing your next opportunity with any one of the many companies we partner with.
 
 
 ## About the challenge
